@@ -1,0 +1,56 @@
+* {
+  font-family: "Arial bold", sans-serif;
+}
+h1{
+  text-align: center;
+  color: darkblue;
+  font: bold;
+}
+.container {
+  width: 1000px;
+}
+.backgroud-size{
+  background-size: cover;
+}
+.margin-auto {
+  margin: auto;
+}
+
+.margin-top-100 {
+  margin-top: 100px;
+}
+
+.margin-bottom-100 {
+  margin-bottom: 100px;
+}
+
+.margin-bottom-50 {
+  margin-bottom: 100px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
+}
+h2{
+  color: rgb(162, 86, 10);
+  font-family: Cambria;
+}
+.text alighn-centar {
+  text-align: center;
+}
+
+.image-section {
+  text-align: center;
+  background-color: rgba(133, 222, 252, 0.653);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.movie-list-item {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.movie-list-item span {
+  font-weight: 700;
+}
